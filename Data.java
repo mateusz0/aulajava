@@ -4,6 +4,14 @@ DRE: 115065935
 lab 3 - Classe Data para validar data.
 */
 //constroi Data
+
+
+
+
+//ACHO QUE VOCÊ PODERIA TRABALHAR MAIS OS ESPAÇOS PARA DAR CLAREZA AO CÓDIGO
+
+
+
 public class Data {
 	private int dia, mes, ano;
     //verifica se o ano é valido
